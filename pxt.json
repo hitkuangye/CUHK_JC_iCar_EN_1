@@ -11,16 +11,8 @@
 
     },
     "files": [
-        "BitIR.ts",
-        "Bit_IR.ts",
-        "enums.d.ts",
-        "Bit_IR.cpp",
-        "ReceiverIR.cpp",
-        "ReceiverIR.h",
-        "RemoteIR.h",
         "README.md",
         "main.ts",
-        "shims.d.ts", 
         "_locales/zh/mbit-strings.json"
 
     ],
